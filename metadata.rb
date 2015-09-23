@@ -4,4 +4,4 @@ maintainer 'Mikamai'
 license 'mit'
 version '0.1.1'
 
-recipe 'opsworks-dotenv-rails::dotenv',     'Generate .env for app'
+recipe 'opsworks_dotenv::dotenv',     'Generate .env for app'
