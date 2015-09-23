@@ -1,4 +1,4 @@
-name 'opsworks-dotenv-rails'
+name 'opsworks-dotenv'
 description 'Dotenv recipe'
 maintainer 'Mikamai'
 license 'mit'
